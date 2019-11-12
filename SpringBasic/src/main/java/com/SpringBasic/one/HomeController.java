@@ -1,4 +1,4 @@
-package com.mybatis.one;
+package com.SpringBasic.one;
 
 import java.text.DateFormat;
 import java.util.Date;

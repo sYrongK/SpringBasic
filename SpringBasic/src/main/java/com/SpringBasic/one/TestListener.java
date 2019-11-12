@@ -1,4 +1,4 @@
-package com.mybatis.one;
+package com.SpringBasic.one;
 
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
